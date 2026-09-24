@@ -1,2 +1,2 @@
 # project-1
-A Chrome browser extension
+The starting point for a browser extension project
